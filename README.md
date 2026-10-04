@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/track.png" width="620" alt="트랙 위를 주행하는 라인트레이서"></p>
 
-<p align="center"><img src="images/line_tracing.gif" width="520" alt="트랙의 라인을 따라 주행하는 라인트레이서"></p>
+<p align="center">▶ <a href="https://youtu.be/Hz1WbS3F3e0">주행 영상 보기</a></p>
 
 | 항목 | 내용 |
 | --- | --- |
