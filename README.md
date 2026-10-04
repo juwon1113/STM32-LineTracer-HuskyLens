@@ -4,6 +4,8 @@
 
 <p align="center"><img src="images/track.png" width="620" alt="트랙 위를 주행하는 라인트레이서"></p>
 
+<p align="center"><img src="images/line_tracing.gif" width="520" alt="트랙의 라인을 따라 주행하는 라인트레이서"></p>
+
 | 항목 | 내용 |
 | --- | --- |
 | 구분 | 교과 프로젝트 (제어기설계, 2026년 1학기), 개인 과제 |
